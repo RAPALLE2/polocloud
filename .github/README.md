@@ -17,7 +17,7 @@ To install PoloCloud, follow these steps:
 
 ## Developement API
 
-⚠️ You need following repository:
+⚠️  You need following repository:
 
 1.1 Maven repository:
 ```xml
